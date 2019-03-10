@@ -3,7 +3,7 @@ We analyse data from  http://www.data.gov.lk/  to get some insights for the bett
 Specifically following areas are of interest,
 1. Crimes per district 2010-2012. (http://www.data.gov.lk/dataset/crime-data-2010-2012)
 2. Accomadation for tourists per district. (http://www.data.gov.lk/dataset/accommodation-information-tourists)
-3. GDP per district. (http://www.data.gov.lk/dataset/gdp-industrial-origin-2002-2006-2012)
+3. GDP per district. (add link to dataset)
 4. Employment by industrial sector. (http://www.data.gov.lk/dataset/employees-industrial-sector-2012)
 
 # @TODO
