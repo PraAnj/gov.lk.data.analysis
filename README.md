@@ -1,5 +1,10 @@
 # gov.lk.data.analysis
 We analyse data from  http://www.data.gov.lk/  to get some insights for the betterment of the community.
+Specifically following areas are of interest,
+1. Crimes per district 2010-2012. (http://www.data.gov.lk/dataset/crime-data-2010-2012)
+2. Accomadation for tourists per district. (http://www.data.gov.lk/dataset/accommodation-information-tourists)
+3. GDP per district. (http://www.data.gov.lk/dataset/gdp-industrial-origin-2002-2006-2012)
+4. Employment by industrial sector. (http://www.data.gov.lk/dataset/employees-industrial-sector-2012)
 
 # @TODO
 We picked a dataset from this page  http://www.data.gov.lk/ and provide an analytical report demonstrating our learnings from Data Science course. And along the way we take this as an opportunity to produce something useful for this country.
