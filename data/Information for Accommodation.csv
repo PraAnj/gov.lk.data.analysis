@@ -142,7 +142,7 @@ Bangalows,WHITE PALACE,"NO 92, GALMADUWA ESTATE, KUNDASALE",5,SUPERIOR,Kandy,Kun
 Bangalows,DEEN HAUS,"15/1, BEACH ROAD, MOUNTLAVINIA.",5,DELUXE,Colombo,Dehiwala-Mount Lavinia,Dehiwala Divisional Secretariat,NULL,NULL
 Bangalows,TEARAMB HOLIDAY BUNGALOW,"38, KARAGASTHALAWA, KATUKITHULA",4,SUPERIOR,Nuwara Eliya,Wellawaya,Kothmale Divisional Secretariat,80.676164,7.074153
 Bangalows,UVA BEN HEAD PLANTATION (UPPER) BUNGALOW,"UVA BEN HEAD ESTATE, WELIMADA",4,SUPERIOR,Badulla,Welimada Pradeshiya Sabha,Welimada Divisional Secretariat,NULL,NULL
-Bangalows,GAGA ADDARA GUEST,"7TH MILE POST, HEPOLA, DIYAKOBBALA, BIBILE",4,STANDARD,Moneragala,Bibile,Bibile Divisional Secretariat,NULL,NULL
+Bangalows,GAGA ADDARA GUEST,"7TH MILE POST, HEPOLA, DIYAKOBBALA, BIBILE",4,STANDARD,Monaragala,Bibile,Bibile Divisional Secretariat,NULL,NULL
 Bangalows,TRANQUILLA,"KADJUWETIYA ROAD, PELPITIGODA.",4,DELUXE,Kalutara,Pathahewaheta,Ingiriya Divisional Secretariat,NULL,NULL
 Bangalows,AIRPORT VILLA,"LIVER BROTHER ROAD, LIYANAGEMULLA ROAD, SEEDUWA",5,DELUXE,Gampaha,Seeduwa,Katana Divisional Secretariat,79.872697,7.142227
 Bangalows,SATORI VILLA,"KORATUWA GEDARA, MATARAMBA ROAD, UNAWATUNA, GALLE.",4,DELUXE,Galle,Akmeemana,Akmeemana Divisional Secretariat,80.271419,6.021524
@@ -178,7 +178,7 @@ Bangalows,VILLA ROSA,"71/20, DODANWELA PASSAGE, ASGIRIYA, KANDY",5,DELUXE,Kandy,
 Bangalows,AARA RESIDENCES,"9/4, DE SERAM ROAD, MOUNT LAVINIA",4,SUPERIOR,Colombo,Colombo,Colombo Divisional Secretariat,NULL,NULL
 Bangalows,MODERN CITY INN,"426, MAIN STREET, NEGAMBO",8,SUPERIOR,Gampaha,Gampaha,Negombo Divisional Secretariat,79.844831,7.212444
 Bangalows,MAX WADIYA,"147,GALLE ROAD, (PARROT JUNCTION), URAWATTE, AMBALANGODA",3,DELUXE,Galle,Galle,Galle Divisional Secretariat,80.057195,6.220452
-Bangalows,LEISURE BUNGALOW,"101/18, MANIKPURAGAMA, WALLIMATAGAMA, KATARAGAMA",4,SUPERIOR,Moneragala,Katharagama,Moneragala Divisional Secretariat,NULL,NULL
+Bangalows,LEISURE BUNGALOW,"101/18, MANIKPURAGAMA, WALLIMATAGAMA, KATARAGAMA",4,SUPERIOR,Monaragala,Katharagama,Monaragala Divisional Secretariat,NULL,NULL
 Bangalows,BEDDEGAMA ECOPARK,"653/3, KAWANTHISSAPURA, TISSAMAHARAMA",7,DELUXE,Hambantota,Thissamaharama,Thissamaharama Divisional Secretariat,NULL,NULL
 Bangalows,COLOMBO LOFT,"365/3, R.A DE MEL MAWATHA, COLOMBO 3",1,SUPERIOR,Colombo,Colombo,Colombo Divisional Secretariat,NULL,NULL
 Bangalows,TAMARIND,"1/104, RAHULA MAWATHA, DIGANA",3,SUPERIOR,Kandy,Kundasle,Kundasale Divisional Secretariat,80.749437,7.265486
@@ -432,7 +432,7 @@ Classified Hotels( 1-5 Star),GRAND HOTEL,"GRAND HOTEL ROAD, NUWARAELIYA",155,FOU
 Classified Hotels( 1-5 Star),AMAYA LAKE,"P.O. BOX. 12, KANDALAMA, DAMBULLA",92,FOUR,Matale,Matale,Matale Divisional Secretariat,80.698555,7.891526
 Classified Hotels( 1-5 Star),AMAYA HILLS,"P.O. BOX. 16, HEERASSAGALA, KANDY",100,FOUR,Kandy,Kandy,Kandy Divisional Secretariat,80.619224,7.259008
 Classified Hotels( 1-5 Star),HILTON COLOMBO RESIDENCE,"NO. 200, UNION PLACE, COLOMBO 02",176,FOUR,Colombo,Colombo,Colombo Divisional Secretariat,79.856131,6.920386
-Classified Hotels( 1-5 Star),MANDARA ROSEN HOTEL,"NO.57, DETAGAMUWA, KATARAGAMA",58,FOUR,Moneragala,Galle,Moneragala Divisional Secretariat,81.326364,6.401201
+Classified Hotels( 1-5 Star),MANDARA ROSEN HOTEL,"NO.57, DETAGAMUWA, KATARAGAMA",58,FOUR,Monaragala,Galle,Monaragala Divisional Secretariat,81.326364,6.401201
 Classified Hotels( 1-5 Star),RAMADA - COLOMBO,"NO.30, SIR MOHAMED MACAN MARKAR MAWATHA, COLOMBO 03",94,THREE,Colombo,Colombo,Colombo Divisional Secretariat,79.84778,6.921261
 Classified Hotels( 1-5 Star),PEGASUS REEF HOTEL,"P.O.BOX. 02, HENDALA, WATTALA",140,FOUR,Gampaha,Gampaha,Gampaha Divisional Secretariat,79.868917,6.999892
 Classified Hotels( 1-5 Star),MOUNT LAVINIA HOTEL,"NO. 100, HOTEL ROAD, MT. LAVINIA",204,FOUR,Colombo,Colombo,Colombo Divisional Secretariat,79.862043,6.833151
@@ -483,7 +483,7 @@ Classified Hotels( 1-5 Star),HOTEL KABALANA,"KATHALUWA,AHANGAMA",22,TWO,Galle,Ha
 Classified Hotels( 1-5 Star),RAMADIA RANMAL HOLIDAY RESORT,"346/5,GALLE ROAD,GORAKANA,MORATUWA",25,ONE,Kalutara,Moratuwa,Moratuwa Divisional Secretariat,79.8977545,6.7636079
 Classified Hotels( 1-5 Star),HOTEL DULYANA,"488/18,MAITHREEPALA SENANAYAKE MW,ANURADHAPURA",30,TWO,Anuradhapura,Anuradhapura,N.P.East,80.405856,8.325802
 Classified Hotels( 1-5 Star),INDRA REGENT HOTEL,"NO.383,R.A.D.MEL MAWATHA,COLOMBO 03",26,ONE,Colombo,Colombo,Thimbirigasyaya Divisional Secretariat,79.854138,6.90434
-Classified Hotels( 1-5 Star),HOTEL CHAMILA,"NO.85,TISSA ROAD,DETAGAMWA KATARAGAMA.",50,ONE,Moneragala,Thissamaharama,Katharagama Divisional Secretariat,81.33300018,6.416999817
+Classified Hotels( 1-5 Star),HOTEL CHAMILA,"NO.85,TISSA ROAD,DETAGAMWA KATARAGAMA.",50,ONE,Monaragala,Thissamaharama,Katharagama Divisional Secretariat,81.33300018,6.416999817
 Classified Hotels( 1-5 Star),HOTEL SUSANTHAS,"NATIONAL HOLIDAY RESORT RD,PITARAMBA,BENTOTA",18,ONE,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,79.996968,6.421783
 Classified Hotels( 1-5 Star),BERJAYA MOUNT ROYAL BEACH HOTEL,"NO:36,COLLAGE AVENUE,MOUNT LAVINIA",90,ONE,Colombo,Moratuwa,Mount Lavinia,79.864017,6.838659
 Classified Hotels( 1-5 Star),NILWALA HOTEL,"NILWALA HOTEL, GALLE ROAD, KALUWAMODARA, ALUTHGAMA.",10,ONE,Kalutara,Aluthgama,Aluthgama,79.993697,6.439855
@@ -653,7 +653,7 @@ Guest Houses,RAASHI LAKE RESORT,"374/4, GALLE ROAD, GORAKANA, KESELWATTE",16,B,K
 Guest Houses,HOTEL THUSHARA,"WELIMADA ROAD, BORALANDA",10,B,Badulla,Welimada Pradeshiya Sabha,Welimada Divisional Secretariat,NULL,NULL
 Guest Houses,SRI GEMUNU GUEST HOUSE,"DALAWELLA, UNAWATUNA, GALLE",20,A,Galle,Habaraduwa,Habaraduwa Divisional Secretariat,80.262016,6.000509
 Guest Houses,VICTORIYA REACH TOURIST GUEST HOUSE,"133/2, HANGURANKETHA ROAD, GURUDENIYA.",6,B,Kandy,Kandy,Kandy Divisional Secretariat,80.673613,7.275099
-Guest Houses,VICTORY INN,"NO. 65, WELLAWAYA ROAD, MONARAGALA",12,A,Moneragala,Thissamaharama,Moneragala Divisional Secretariat,81.347934,6.868747
+Guest Houses,VICTORY INN,"NO. 65, WELLAWAYA ROAD, MONARAGALA",12,A,Monaragala,Thissamaharama,Monaragala Divisional Secretariat,81.347934,6.868747
 Guest Houses,VARNIAS BEACH VILLA,"NO. 6/1, SEA VIEW ROAD, LEWIS PLACE, NEGOMBO",6,A,Gampaha,Negombo,Negombo Divisional Secretariat,NULL,NULL
 Guest Houses,SUMMER CLUB,"RIVER VIEW ROAD, HIRANA, PANADURA",5,B,Kalutara,Panadura Pradeshiya Sabha,Panadura Divisional Secretariat,79.945353,6.743163
 Guest Houses,SASELL GUEST HOUSE,"NO. 224, OLD GALLE ROAD, PALLIMULLA, PANADURA",8,A,Kalutara,Panadura Pradeshiya Sabha,Panadura Divisional Secretariat,NULL,NULL
@@ -812,11 +812,11 @@ Guest Houses,ILEY GARDEN RESTAURANT,"NO.14, STATION ROAD, BAMBALAPITIYA.",6,B,Co
 Guest Houses,KALLA BONGO LAKE RESORT,"22/8K FEILD VIEW, BADDEGAMA ROAD, NALAGASDENIYA, HIKKADUWA.",15,A,Galle,Hikkaduwa,Hikkaduwa Divisional Secretariat,NULL,NULL
 Guest Houses,KANDY HOLIDAY HOME,"51/30, BANGALAWATTA, LEWELLA, KANDY.",10,A,Kandy,Kandy,Kandy Divisional Secretariat,80.653874,7.297828
 Guest Houses,INNAMALUWA INN,"SIGIRIYA RD,INNAMALUWA",10,B,Matale,Dambulla Pradeshiya Sabha,Dambulla Divisional Secretariat,80.693661,7.927465
-Guest Houses,KALU S HIDEAWAY,"WALAWEGAMA, UDAWALAWA.",7,A,Moneragala,Embilipitiya,Moneragala Divisional Secretariat,NULL,NULL
+Guest Houses,KALU S HIDEAWAY,"WALAWEGAMA, UDAWALAWA.",7,A,Monaragala,Embilipitiya,Monaragala Divisional Secretariat,NULL,NULL
 Guest Houses,KOTTAWATTA VILLAGE INN,"THIMBOLKETIYA, KOLAMBAGEARA.",6,B,Ratnapura,Embilipitiya,Embilipitiya Divisional Secretariat,80.80106,6.406341
 Guest Houses,KETETHENNA TOUR INN,"635,RATHNAPURA ROAD, KETETHENNA, KAHAWATTA.",9,B,Ratnapura,Ratnapura,Ratnapura Divisional Secretariat,NULL,NULL
 Guest Houses,KUSUM NADIYA,"NEGOMBO ROAD, KURUNEGALA.",10,B,Kurunegala,Kurunegala,Kurunegala Divisional Secretariat,80.335617,7.476941
-Guest Houses,RASARA GUEST HOUSE,"NO:251,POTHUWIL ROAD,MONARAGALA",8,B,Moneragala,Hambantota,Moneragala Divisional Secretariat,NULL,NULL
+Guest Houses,RASARA GUEST HOUSE,"NO:251,POTHUWIL ROAD,MONARAGALA",8,B,Monaragala,Hambantota,Monaragala Divisional Secretariat,NULL,NULL
 Guest Houses,LAKE VIEW GARDEN HOTEL,"KANDY ROAD,MATALE JUNCTION, KURUNDANKULAMA, ANURADHAPURA.",6,B,Anuradhapura,Anuradhapura,Anuradhapura East,80.444118,8.347579
 Guest Houses,HOTEL LION INN,"BINDUNUWEWA, BANDARAWELA.",19,A,Badulla,Bandarawela Pradeshiya Sabha,Bandarawela Divisional Secretariat,81.003221,6.837185
 Guest Houses,ISURU GUEST HOUSE,"NO:27,AKURASSA ROAD,KAMBURUPITIYA",6,B,Matara,Matara,Matara Divisional Secretariat,NULL,NULL
@@ -842,7 +842,7 @@ Guest Houses,MEMENTO TOURIST GUEST HOUSE,"NO.24, VIJAYA ROAD, GAMPAHA.",9,B,Gamp
 Guest Houses,MAMAS CORAL BEACH,"NO:338,GALLE ROAD,HIKKADUWA",9,B,Galle,Hikkaduwa,Hikkaduwa Divisional Secretariat,NULL,NULL
 Guest Houses,HOTEL RANKETHA,"NO:160,BATTICALOA ROAD,POLONNARUWA",11,B,Polonnaruwa,Polonnaruwa,Thamankaduwa Divisional Secretariat,NULL,NULL
 Guest Houses,OLD BRIDGE INN,"NO.84, COLOMBO ROAD, ALAWWA.",7,B,Kegalle,Alawwa Pradeshiya Sabha,Warakapola Divisional Secretariat,NULL,NULL
-Guest Houses,NIMALI HOLIDAY INN,"AMBAWATTA,ELLA ROAD,WELLAWAYA",10,B,Moneragala,N/A,Wellawaya Divisional Secretariat,NULL,NULL
+Guest Houses,NIMALI HOLIDAY INN,"AMBAWATTA,ELLA ROAD,WELLAWAYA",10,B,Monaragala,N/A,Wellawaya Divisional Secretariat,NULL,NULL
 Guest Houses,NA - MALA HOLIDAY RESORT,"KURUNEGALA ROAD, DMBULLA.",6,A,Matale,Dambulla Pradeshiya Sabha,Dambulla Divisional Secretariat,NULL,NULL
 Guest Houses,NEW VIWEKA INN,"NO.180, NUWARAELIYA ROAD, WELIMADA.",5,B,Badulla,Welimada Pradeshiya Sabha,Welimada Divisional Secretariat,NULL,NULL
 Guest Houses,REST HOUSE HETTIPOLA,"REST HOUSE ,KULLIYA PITIYA ROAD,HETTIPOLA.",2,B,Kurunegala,Kurunegala,Kurunegala Divisional Secretariat,NULL,NULL
@@ -879,7 +879,7 @@ Guest Houses,ROY VILLA BEACH HOTEL,"NAINNAWATTA,1ST CROSS STREET,PAYAGALA.",12,A
 Guest Houses,SALA FACTORY HOTEL & RESTAURANT,"SALAWA,KOSGAMA",5,A,Colombo,Seethawaka Pradeshiya Sabha,Hanwella,NULL,NULL
 Guest Houses,STAR BEACH GUEST HOUSE,"83/3,LEWIS PLACE,NEGOMBO",16,A,Gampaha,Negombo,Negombo Divisional Secretariat,NULL,NULL
 Guest Houses,SHALIMAR GUEST HOUSE,"NO.46,PANCHIKAWATTA ROAD,COLOMBO 10",21,A,Colombo,Colombo,Colombo Divisional Secretariat,NULL,NULL
-Guest Houses,INGINIYAGALA SAFARI INN,INGINIYAGALA,5,B,Moneragala,N/A,Madulla Divisional Secretariat,NULL,NULL
+Guest Houses,INGINIYAGALA SAFARI INN,INGINIYAGALA,5,B,Monaragala,N/A,Madulla Divisional Secretariat,NULL,NULL
 Guest Houses,SHALIMAR BEACH HOTEL,"POTUPITIYA,WADDUWA",25,A,Kalutara,Kalutara Pradeshiya Sabha,Kalutara Divisional Secretariat,NULL,NULL
 Guest Houses,SAMAN REST,"235,NEW ROAD,AMBALANGODA",5,B,Galle,Ambalangoda,Ambalangoda Divisional Secretariat,80.054098,6.237236
 Guest Houses,SUBASI TOURIST RESORT,"269/1,ASSEDDUMA,KULIYAPITIYA",5,B,Kurunegala,Kuliyapitiya Pradeshiya Sabha,Kuliyapitiya East Divisional Secretariat,NULL,NULL
@@ -896,13 +896,13 @@ Guest Houses,THAMPA TOURIST HOTEL & INN,"10,1ST LANE,SINNAPUTHUKULAM,VAUNIYA",19
 Guest Houses,WELIGAMA BAY RESORT,"MATARA ROAD,PELENA,WELIGAMA",24,A,Matara,Weligama,Weligama Divisional Secretariat,80.440137,5.972813
 Guest Houses,TIVERTON TOURIST GUEST,"60,2ND RAJASINNGHE MW,KANDY",2,B,Kandy,Kandy,Gagawata,NULL,NULL
 Guest Houses,TAPROSPA LABOOKELLIE VILLA,"LABOOKELLIE ESTATE,LABOOKELLIE,NUWARAELIYA",5,A,Nuwara Eliya,Nuwara Eliya,Kothmale Divisional Secretariat,80.718587,7.024754
-Guest Houses,WELLASSA-INN,"REST HOUSE,WELLAWAYA ROAD,MONERAGALA",6,B,Moneragala,N/A,Moneragala Divisional Secretariat,NULL,NULL
+Guest Houses,WELLASSA-INN,"REST HOUSE,WELLAWAYA ROAD,Monaragala",6,B,Monaragala,N/A,Monaragala Divisional Secretariat,NULL,NULL
 Guest Houses,THAMBAPANNI RETREAT,"YADDEHIMULLA,UNAWATUNA,GALLE",18,A,Galle,Habaraduwa,Habaraduwa Divisional Secretariat,80.243394,6.011141
 Guest Houses,THAPROBAN ROOMS AND RESTAURANT,"72,YADDEHIMULLA,UNAWATUNA",14,A,Galle,Galle,Galle Divisional Secretariat,80.240417,6.009545
 Guest Houses,SUN ROO BEACH,"NO:22,SAMARAWEERA PLACE,WELIGAMA",8,B,Matara,Weligama Pradeshiya Sabha,Weligama Divisional Secretariat,NULL,NULL
 Guest Houses,WICKS RIVER INN,"SINHGAPURA,BOGAHAMADITHA,HALI ELA,BADULLA",6,B,Badulla,Badulla,Hali-Ela Divisional Secretariat,NULL,NULL
 Guest Houses,THUSHARA TOURIST HOTEL,"34,BANDARWELA ROAD,WELIMADA.",10,A,Badulla,Welimada Pradeshiya Sabha,Welimada Divisional Secretariat,NULL,NULL
-Guest Houses,REST HOUSE - WELLAWAYA,"ELLA ROAD,WALLAWAYA",5,B,Moneragala,N/A,Moneragala Divisional Secretariat,81.101003,6.732291
+Guest Houses,REST HOUSE - WELLAWAYA,"ELLA ROAD,WALLAWAYA",5,B,Monaragala,N/A,Monaragala Divisional Secretariat,81.101003,6.732291
 Guest Houses,YPSYLON GUEST HOUSE,"MORAGALLA 12070,BERUWELA",25,A,Kalutara,Beruwala Pradeshiya Sabha,Beruwala Divisional Secretariat,NULL,NULL
 Guest Houses,UNAWATUNA NOR-LANKA HOTEL,"PALUGEDARAWATTA,PEELLAGODA,UNAWATUNA",14,A,Galle,Habaraduwa,Habaraduwa Divisional Secretariat,80.249097,6.012171
 Guest Houses,VENUS LANKA,"26,PALMYRAH AVENUE.COLOMBO 03.",20,B,Colombo,Colombo,Colombo Divisional Secretariat,NULL,NULL
@@ -940,7 +940,7 @@ Guest Houses,CAPRI MOON REST INN,"60/4, NEW ROAD , HALGASTHOTO ,KATUNAYAKA",12,A
 Guest Houses,OCEAN BEACH HOTEL,"ARUGAMBAY,POTTUVIL-18",11,B,Ampara,Ampara,Pottuvil Divisional Secretariat,NULL,NULL
 Guest Houses,CAROLINE REST,"CHANKANAI ROAD, ALLUKAI , ALAVEDI",6,B,Jaffna,Jaffna,Jaffna Divisional Secretariat,NULL,NULL
 Guest Houses,GECKO RESTAURANT & ROOMS,"MAIN STREET,ARUGAMBAY,POTTUWIL",6,B,Ampara,Ampara,Pottuvil Divisional Secretariat,81.832523,6.841218
-Guest Houses,DEVASI REST,"PARANAKANNDA ROAD, ARAMA PATUMAGA, KATARAGAMA",18,B,Moneragala,Hambantota,Hambantota Divisional Secretariat,NULL,NULL
+Guest Houses,DEVASI REST,"PARANAKANNDA ROAD, ARAMA PATUMAGA, KATARAGAMA",18,B,Monaragala,Hambantota,Hambantota Divisional Secretariat,NULL,NULL
 Guest Houses,DUNE INN HOTEL,"NO.97,BORELLA ROAD,ATHURUGIRIYA",6,A,Colombo,Kaduwela Pradeshiya Sabha,kaduwela Divisional Secretariat,NULL,NULL
 Guest Houses,COUNTRY GARDEN RESORT,"PANABOKKE, WATTAPPOLA",5,A,Kandy,Udunuwara Pradeshiya Sabha,Udunuwara Divisional Secretariat,80.544262,7.222993
 Guest Houses,ALOHA CABANAS,"SINNA ULLAI,ARUGAMBAY",10,B,Ampara,Ampara,Pottuvil Divisional Secretariat,81.830823,6.845218
@@ -984,7 +984,7 @@ Guest Houses,HOTEL CROWN FIELD,"KURUNEGALA ROAD,NARAMMALA",8,A,Kurunegala,Kurune
 Guest Houses,HOTEL TARAGON,"NO. 546, KURUNEGALA ROAD, THULHIRIYA",16,A,Kegalle,Kegalle,Warakapola Divisional Secretariat,NULL,NULL
 Guest Houses,HOTEL JASMINE LANKA,"MIRIGAMA RD,PASYALA",12,B,Gampaha,Gampaha,Mirigama Divisional Secretariat,NULL,NULL
 Guest Houses,HOTEL FAMOUS,"NO.41,SCHOOL LANE,EHELIYAGODA",16,A,Ratnapura,Eheliyagoda Pradeshiya Sabha,Eheliyagoda Divisional Secretariat,NULL,NULL
-Guest Houses,HOTEL KINKINI,"306,BADULLA RD,BIBILE",15,A,Moneragala,N/A,Bibile Divisional Secretariat,81.223353,7.15441
+Guest Houses,HOTEL KINKINI,"306,BADULLA RD,BIBILE",15,A,Monaragala,N/A,Bibile Divisional Secretariat,81.223353,7.15441
 Guest Houses,HOTEL FLOWER GARDEN,"NO.14,WELLA DEWALA ROAD,UNAWATUNA,GALLE",25,A,Galle,Galle,Galle Divisional Secretariat,80.248556,6.013972
 Guest Houses,JAFFNA FORT,"NO. 56, 1ST CROSS STREET, JAFFNA",6,B,Jaffna,Jaffna,Jaffna Divisional Secretariat,80.00808,9.663071
 Guest Houses,JAYABIMA GUEST HOUSE,"NO. 124, KOTMALE ROAD, NAWALAPITIYA",5,A,Kandy,Pasbage Korale Pradeshiya Sabha,Pasbage Korale Divisional Secretariat,NULL,NULL
@@ -1001,7 +1001,7 @@ Guest Houses,KURULUKELAY INN,"NO. 17, ALBERT SENEVIRATNA MAWATHA, KEGALLE",8,B,K
 Guest Houses,MONTY GUEST,"C 32,1ST AVEUNE,AMPARA",42,A,Ampara,Ampara,Ampara Divisional Secretariat,81.67794,7.286339
 Guest Houses,HOTEL BRIDGE VIEW,"63/24,NEW DUTCH BAR ROAD,KALLADY,BATTICALOA",21,B,Batticaloa,Batticaloa,Batticaloa Divisional Secretariat,81.710739,7.721854
 Guest Houses,HOTEL HESHANI,"NO:176/1,WALAWWATTE,KEGALLE",8,B,Kegalle,Kegalle,Kegalle Divisional Secretariat,80.459473,7.140422
-Guest Houses,HOTEL CANBO,"NO.98,MAHIYANGANA ROAD,BIBILE",9,A,Moneragala,N/A,Bibile Divisional Secretariat,81.222902,7.164342
+Guest Houses,HOTEL CANBO,"NO.98,MAHIYANGANA ROAD,BIBILE",9,A,Monaragala,N/A,Bibile Divisional Secretariat,81.222902,7.164342
 Guest Houses,KURUNDUWATTA HOLIDAY RESORT,"THOTUPOLA ROAD, PITIGALA",20,A,Galle,Galle,Niyagama Divisional Secretariat,80.222378,6.343892
 Guest Houses,NANDANA REST,"NO. 50, AVISSAWELLA ROAD, WELIVITA, KADUWELA",20,B,Colombo,Kaduwela Pradeshiya Sabha,kaduwela Divisional Secretariat,NULL,NULL
 Guest Houses,HOTEL HOME FEEL,"166, RAJA MAWATHA, UDAMMITA, JA-ELA",8,B,Gampaha,Gampaha,Ja-Ela Divisional Secretariat,NULL,NULL
@@ -1020,7 +1020,7 @@ Guest Houses,OASIS BEACH HOTEL,"NO.10/26,PORUTOTA ROAD,NEGOMBO",6,A,Gampaha,Gamp
 Guest Houses,LOTUS REST,"162/19, WATHUREGAMA, AHUNGALLA",20,A,Galle,Galle,Balapitiya Divisional Secretariat,80.035455,6.305251
 Guest Houses,LUCKY STAR GUEST HOUSE,"31,TUDUWEWATTA GOYAMBOKKA,TANGALLE",9,B,Hambantota,Tangalle Pradeshiya Sabha,Tangalle Divisional Secretariat,NULL,NULL
 Guest Houses,PABASARA GUEST HOUSE,"PANSAL WATTE, BANGAMA ROAD, AKURESSA",5,B,Matara,Akuressa Pradeshiya Sabha,Akuressa Divisional Secretariat,80.474981,6.101911
-Guest Houses,OLD REST HOUSE,"OLD ELLA ROAD,WELLAWAYA",10,A,Moneragala,N/A,Wellawaya Divisional Secretariat,81.101002,6.732293
+Guest Houses,OLD REST HOUSE,"OLD ELLA ROAD,WELLAWAYA",10,A,Monaragala,N/A,Wellawaya Divisional Secretariat,81.101002,6.732293
 Guest Houses,PABASARA REST,"NO. 4/3, KOSWATTA, KIRIBATHGODA, KELANIYA",10,B,Gampaha,Kelaniya Pradeshiya Sabha,Kelaniya Divisional Secretariat,79.926224,6.976251
 Guest Houses,PAIVAS CITY HOTEL,"NO. 37, YATINUWARA VEEDIYA, KANDY",5,A,Kandy,Kandy,Ganewatta Divisional Secretariat,80.635766,7.293828
 Guest Houses,PARADISE INN,"NO. 238/2, NUWARA ELIYA ROAD, WELIMADA",5,B,Badulla,Welimada Pradeshiya Sabha,Welimada Divisional Secretariat,NULL,NULL
@@ -1028,7 +1028,7 @@ Guest Houses,PRI - KIN RESTAURANT & GUEST HOUSE,"NO:10, PORUTHOTA ROAD, ETHTHUKA
 Guest Houses,PARADISE INN,"NO. 8, DANGOLLA ROAD,PERADENIYA",19,A,Kandy,Kandy,Gagawata,80.60789,7.269178
 Guest Houses,PARADISE REST,"NO. 76, REST HOUSE ROAD, NIKAWERATIYA.",14,B,Kurunegala,Nikaweratiya Pradeshiya Sabha,Nikaweratiya Divisional Secretariat,80.120044,7.751355
 Guest Houses,PULEY S BALMORAL HOTEL,"OPPOSITE TO RAILWAY STATION ,VAUNIYA.",14,A,Vavuniya,Vavuniya,Vavuniya,80.494247,8.753839
-Guest Houses,PARK VIEW HOLIDAY RESORT,"NO. 03, SITHULPAUWA ROAD, KATARAGAMA",11,B,Moneragala,N/A,Moneragala Divisional Secretariat,NULL,NULL
+Guest Houses,PARK VIEW HOLIDAY RESORT,"NO. 03, SITHULPAUWA ROAD, KATARAGAMA",11,B,Monaragala,N/A,Monaragala Divisional Secretariat,NULL,NULL
 Guest Houses,HOTEL PARADISO,"406,GALLE ROAD,HIKKADUWA",1,B,Galle,Hikkaduwa,Hikkaduwa Divisional Secretariat,80.102908,6.128799
 Guest Houses,PUNSISI,"NO:207/4/A, MEEAMBEWATHNA ROAD,THIHARIYA, KALAGEDIHENA",12,B,Gampaha,Attanagalla Pradeshiya Sabha,Attanagalla Divisional Secretariat,NULL,NULL
 Guest Houses,PEACE HEAVEN INN,"NO. 18, PEELIPOTHAGAMA ROAD, BADULLA",7,B,Badulla,Badulla,Badulla Divisional Secretariat,NULL,NULL
@@ -1080,7 +1080,7 @@ Guest Houses,VERONA HOTEL,"ZAVIER ROAD, WENNAPPUWA",10,A,Puttalam,Wennappuwa Pra
 Guest Houses,ROYAL REST,"MANNAR ROAD, VEPPANKULAM, VAVUNIYA",7,B,Vavuniya,Vavuniya,Vavuniya,NULL,NULL
 Guest Houses,VICTORIA GOLF & COUNTRY RESORT,"P.O.BOX 07, RAJAWELLA",25,A,Kandy,Kandy,Kandy Divisional Secretariat,80.774256,7.265143
 Guest Houses,WATERS EDGE,"NO.316,ATHUL KOTTE ROAD,BATTARAMULLA",5,A,Colombo,Colombo,kaduwela Divisional Secretariat,NULL,NULL
-Guest Houses,VISAKA HOTEL,"NO:34, SELLAKATARAGAMA ROAD, KATARAGAMA",22,A,Moneragala,Hambantota,Hambantota Divisional Secretariat,81.31888,6.420677
+Guest Houses,VISAKA HOTEL,"NO:34, SELLAKATARAGAMA ROAD, KATARAGAMA",22,A,Monaragala,Hambantota,Hambantota Divisional Secretariat,81.31888,6.420677
 Guest Houses,WET WATER RESORT,"NO.136/D,LUMBINIWATTA,JA-ELA ,GAMPAHA",12,A,Gampaha,Ja-Ela Pradeshiya Sabha,Ja-Ela Divisional Secretariat,79.95547,7.090865
 Guest Houses,RIVER GARDERN GUEST,BELIHULOYA,5,B,Ratnapura,Ratnapura,Imbulpe Divisional Secretariat,NULL,NULL
 Guest Houses,RICO SHADOW GUEST HOUSE & RESTAURENT,"KAMMALA NORTH, WAIKKALA",10,A,Puttalam,Wennappuwa Pradeshiya Sabha,Wennappuwa Divisional Secretariat,79.83965,7.298235
@@ -1089,7 +1089,7 @@ Guest Houses,YATHUSAN GUEST HOUSE,"KADDUWAN ROAD, MALLAKAM, JAFFNA",5,B,Jaffna,J
 Guest Houses,ROYAL REST,"KANDY ROAD, MANGULLAM",6,B,Jaffna,Jaffna,Jaffna Divisional Secretariat,NULL,NULL
 Guest Houses,WIJAYA HOLIDAY RESORT,"THALGAHAHENA ESTATE,EPITAWALA,KIRIELLA",12,A,Ratnapura,Ratnapura,Kiriella Divisional Secretariat,80.243828,6.743553
 Guest Houses,CLARION HUB,"NO: 1374, COLOMBO ROAD, KURANA, KATUNAYAKA.",20,A,Gampaha,Gampaha,Gampaha Divisional Secretariat,NULL,NULL
-Guest Houses,YALA EDGE,"KOCHIPOTHANA, SITHULPAHUWA ROAD, KATHARAGAMA",5,B,Moneragala,Polonnaruwa,Moneragala Divisional Secretariat,81.38107,6.402011
+Guest Houses,YALA EDGE,"KOCHIPOTHANA, SITHULPAHUWA ROAD, KATHARAGAMA",5,B,Monaragala,Polonnaruwa,Monaragala Divisional Secretariat,81.38107,6.402011
 Guest Houses,PUBS AND PLACES,"1837, NEW GALLE ROAD, MORATUWA",5,B,Colombo,Moratuwa,Moratuwa Divisional Secretariat,NULL,NULL
 Guest Houses,ROYAL PARK GUEST,"NO:121, GALA JUNCTION, KIRIBATHGODA",16,B,Colombo,Colombo,Colombo Divisional Secretariat,79.933777,6.984793
 Guest Houses,THE TALDUWA MANOR,"MALWATTE LEISURE RESORTS, TALDUWA ESTATE, IRRACHT DIIVISION, HATTON ROAD, DEHIOWITA",12,B,Kegalle,Dehiowita Pradeshiya Sabha,Dehiovita Divisional Secretariat,80.249924,6.974722
@@ -1112,9 +1112,9 @@ Guest Houses,DICKWELLA RESTAURANT,"NO:121/1,MAIN STREET,AMBALANTOTA",6,C,Hambant
 Guest Houses,BANDAGIRI VILLAGE ECO RESORTS,"GONNORUWA ROAD,HAMBANTOTA",22,A,Hambantota,Hambantota,Hambantota Divisional Secretariat,81.142757,6.234207
 Guest Houses,KIRUWANA ELLA GUEST,"URUBOKKA ROAD,MORAGALA,KIRILIPANA",6,B,Matara,Matara,Pasgoda Divisional Secretariat,NULL,NULL
 Guest Houses,MOULINI HOTEL,"KODIKAMAM NORTH,KODIKAMAM",5,C,Jaffna,Jaffna,Jaffna Divisional Secretariat,NULL,NULL
-Guest Houses,CEYBANK REST - KATARAGAMA,"TISSAMAHARAMA ROAD,KATARAGAMA.",26,A,Moneragala,Katharagama,Katharagama Divisional Secretariat,81.330985,6.412627
+Guest Houses,CEYBANK REST - KATARAGAMA,"TISSAMAHARAMA ROAD,KATARAGAMA.",26,A,Monaragala,Katharagama,Katharagama Divisional Secretariat,81.330985,6.412627
 Guest Houses,SANULA GUEST HOUSE,"SANULA GUEST HOUSE,BANDARWATHTHA,WATHTHAGAMA,SOUTH DICKWELLA",7,B,Matara,Dickwella,Dickwella Divisional Secretariat,NULL,NULL
-Guest Houses,THUDUWA CAMP,"SAMAGIPURA,KIRIIBBANWEWA,SEWANAGALA",6,B,Moneragala,Thanamalwila Pradeshiya Sabha,Sewanagala Divisional Secratariat,NULL,NULL
+Guest Houses,THUDUWA CAMP,"SAMAGIPURA,KIRIIBBANWEWA,SEWANAGALA",6,B,Monaragala,Thanamalwila Pradeshiya Sabha,Sewanagala Divisional Secratariat,NULL,NULL
 Guest Houses,HETTIARACHCHI FAMILY RESTURANT & GUEST HOUSE,"NO 151,MATHUGAMA ROAD,PELAWATHTHA",6,A,Kalutara,Walallawita Pradeshiya Sabha,Walallavita Divisional Secretariat,NULL,NULL
 Guest Houses,SEA MOON GARDEN GUEST HOUSE,"KALMUNAI ROAD, MAIN STREET, KIRANKULAM 06 NORTH, BATTICALOA",7,A,Batticaloa,N/A,Manmunai Pattu Divisional Secretariat,81.763094,7.613703
 Guest Houses,VILLA LANKA PEARL,"23/13, GHANATHILAKA MAWATHA, WELLABODA, BALAPITIYA",6,B,Galle,N/A,Balapitiya Divisional Secretariat,NULL,NULL
@@ -1122,7 +1122,7 @@ Guest Houses,HOTEL HONEY MOON,"KANDY ROAD,NAVATKULI,KAITHDY.",7,B,Jaffna,Kalmuna
 Guest Houses,SUN RISE GUEST,UDAKALAGAMA.POLONNARUWA ROAD.HABARANA,6,C,Polonnaruwa,Hingurakgoda Pradeshiya Sabha,Hingurakgoda Divisional Secretariat,80.747548,8.027473
 Guest Houses,REST HOUSE - BOGAWANTALAWA,"11O.MAIN STREET,BOGAWANTALAWA",3,B,Nuwara Eliya,Ambagamuwa Pradeshiya Sabha,Ginigathhena,80.678775,6.795292
 Guest Houses,DALAWELLA BEACH RESORT,NO448.DALAWELLA.UNAWATUNA,8,B,Galle,Habaraduwa,Habaraduwa Divisional Secretariat,80.259485,6.002037
-Guest Houses,SARANGA HOLIDAY INN,37.ELLA ROAD.WELLAWAYA.,10,A,Moneragala,Wellawaya,Wellawaya Divisional Secretariat,81.100217,6.733045
+Guest Houses,SARANGA HOLIDAY INN,37.ELLA ROAD.WELLAWAYA.,10,A,Monaragala,Wellawaya,Wellawaya Divisional Secretariat,81.100217,6.733045
 Guest Houses,NEW GROSVENOR HOTEL,KANDY ROAD.HELAGALA.DANOWITA,8,A,Gampaha,Madurawala Pradeshiya Sabha,Mirigama Divisional Secretariat,NULL,NULL
 Guest Houses,HOTEL SHANIKA,NO 175.BALAGOLLA.KENGALLA,10,B,Kandy,Kundasle,Kundasale Divisional Secretariat,NULL,NULL
 Guest Houses,SAYURIMA HOTEL & GUEST HOUSE,"GOVIYAPANA, AHANGAMA",7,B,Galle,Habaraduwa,Habaraduwa Divisional Secretariat,80.380499,5.965326
@@ -1144,7 +1144,7 @@ Guest Houses,DELTHOTA VILLAGE,"154, BOPITIYA ROAD, DELTOTA",8,B,Kandy,Pathahewah
 Guest Houses,M.B GUEST HOUSE & RESTAURENT,NO :100/2. PALANGATURE. KOCHCHIKADE,5,B,Gampaha,Negombo,Negombo Divisional Secretariat,NULL,NULL
 Guest Houses,RAN SEA HOTEL,"WATTHEGAMA, DICKWELLA.",12,B,Matara,Dickwella,Dickwella Divisional Secretariat,NULL,NULL
 Guest Houses,HOTEL BINOTA,NO 21. BONAVISTA ROAD. KELEGALA. NUWARA ELIYA,9,A,Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Divisional Secretariat,80.774704,6.955417
-Guest Houses,NETHMINI GUEST & REST,"1ST MILE POST ,AMPARA ROAD,SIYABALANDUWA",15,C,Moneragala,Ampara,Moneragala Divisional Secretariat,81.558596,6.918292
+Guest Houses,NETHMINI GUEST & REST,"1ST MILE POST ,AMPARA ROAD,SIYABALANDUWA",15,C,Monaragala,Ampara,Monaragala Divisional Secretariat,81.558596,6.918292
 Guest Houses,PARADISE INN-,"NO 67,GANGABODA ROAD,DELTARA",19,A,Colombo,Kesbewa,Kesbewa Divisional Secretariat,NULL,NULL
 Guest Houses,CHOYS WATER FRONT RESIDENCE,"NO31,CUSTOM HOUSE ROAD,NEGOMBO",8,A,Gampaha,Negombo,Negombo Divisional Secretariat,79.835564,7.208541
 Guest Houses,NONAGAMA VILLAGE TOURIST GUEST HOUSE,"NO 275,TANGALLE ROAD,EKKASSE,AMBALANTOTA",7,B,Hambantota,Ambalantota Pradeshiya Sabha,Ambalantota Divisional Secretariat,80.992906,6.114312
@@ -1310,7 +1310,7 @@ Guest Houses,HOTEL MIHINTALE,ANURADHAPURA ROAD MIHINTALE.,10,A,Anuradhapura,Mihi
 Guest Houses,MELBOURNE TOURIST REST,"388/28, HARISCHANDRA MW, STAGE 1, ANURADHAPURA",10,A,Anuradhapura,Anuradhapura,Anuradhapura East,80.41572,8.331264
 Guest Houses,WHITE VILLA RESORT AND RESTAURNT,"22/50,THOTAWATHTHA ROAD,AHUNGALLA.",5,A,Galle,balapitiya,Balapitiya Divisional Secretariat,NULL,NULL
 Guest Houses,DICKMAN RESORT,"NO. 26/7, PORUTHOTA ROAD, NEGOMBO",10,A,Gampaha,Negombo,Negombo Divisional Secretariat,79.843546,7.240904
-Guest Houses,HOTEL LION NATURE,"DIMBULAMURAYA,ELLA ROAD,WELLAWAYA",7,A,Moneragala,Wellawaya,Moneragala Divisional Secretariat,81.099745,6.750513
+Guest Houses,HOTEL LION NATURE,"DIMBULAMURAYA,ELLA ROAD,WELLAWAYA",7,A,Monaragala,Wellawaya,Monaragala Divisional Secretariat,81.099745,6.750513
 Guest Houses,SUNSET BEACH PARADISE HOTEL,"ROMAN PARK, MUDUKATUWA SOUTH, MARAWILA",9,A,Puttalam,Nattandiya Pradeshiya Sabha,Nattandiya Divisional Secretariat,NULL,NULL
 Guest Houses,ARUGAMBAY SURFERS VILLA,"MAIN STREET, ARUGAMBAY SOUTH, POTTUVIL 05",30,B,Ampara,Pottuvil,Pottuvil Divisional Secretariat,NULL,NULL
 Guest Houses,GAMAGE NEST AND REST,"MIRISWATTA,KAMBURUPITIYA.",9,B,Matara,Kamburupitiya Pradeshiya Sabha,Kamburupitiya Divisional Secretariat,NULL,NULL
@@ -1381,7 +1381,7 @@ Guest Houses,RIDEE VILLA,"NO 321,PEELAGODA,UNAWATUNA.",14,A,Galle,Habaraduwa,Hab
 Guest Houses,VALLEE 69 ECO LEISURE,"237, WELIARAGODA, TISSAMAHARAMA",5,A,Hambantota,Thissamaharama,Thissamaharama Divisional Secretariat,81.299924,6.289983
 Guest Houses,PASLA HOTEL,"NO 47, MAIN STREET, ELLA",8,B,Badulla,Ella Pradeshiya Sabha,Ella Divisional Secretariat,NULL,NULL
 Guest Houses,NANDAWANAM GUEST HOUSE,"PASIKUDAH ROAD,KALKUDAH,",12,B,Batticaloa,Koralai Pattu,Koralai Pattu Divisional Secretariat,NULL,NULL
-Guest Houses,ELEPHANT TRAIL,"NO 35, KATUPILAGAMA EKAMUTHUGAMA, SEWANAGALA",15,A,Moneragala,Thanamalwila Pradeshiya Sabha,Sewanagala Divisional Secratariat,NULL,NULL
+Guest Houses,ELEPHANT TRAIL,"NO 35, KATUPILAGAMA EKAMUTHUGAMA, SEWANAGALA",15,A,Monaragala,Thanamalwila Pradeshiya Sabha,Sewanagala Divisional Secratariat,NULL,NULL
 Guest Houses,ELLA FLOWER GARDEN AND RESORT,"THIRD MILE POST, PASSARA ROAD, ELLA",14,B,Badulla,Ella Pradeshiya Sabha,Ella Divisional Secretariat,81.056488,6.870921
 Guest Houses,HOTEL ONROCK,"WEMULLAHENA, ELLA",8,A,Badulla,Ella Pradeshiya Sabha,Ella Divisional Secretariat,NULL,NULL
 Guest Houses,GREEN LINE GUEST HOUSE,"MOONRAM PITY, PALIYARU, MANNAR",6,B,Mannar,MC,Manmunai North Divisional Secretariat,NULL,NULL
@@ -1523,7 +1523,7 @@ Home Stay Units,FRIENDLY FAMILY GUEST HOUSE,"NO.291/A,D.S.SENANAYAKE VIDIYA,KAND
 Home Stay Units,MUTHUGALA REST,"""MUTHUGALA REST"",NO.159,AMUNUKUMBURA,WATHURUGAMA",4,SUPERIOR,Gampaha,Gampaha,Gampaha Divisional Secretariat,NULL,NULL
 Home Stay Units,VILLA SETH,"""VILLA SETH"",NO.36/14,YASODARA WATTA,HIRIMBURA CROSS ROAD,GALLE",4,DELUXE,Galle,Galle,Gagawata,NULL,NULL
 Home Stay Units,OCEAN INN,"""OCEAN INN"",NO.166/7,ROBOLGODA,BENTOTA",5,STANDARD,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,NULL,NULL
-Home Stay Units,9 A,"9A, UPPER DICKSON ROAD, GALLE",1,SUPERIOR,Galle,Galle,Galle Divisional Secretariat,NULL,NULL
+Home Stay Units,9:00 AM,"9A, UPPER DICKSON ROAD, GALLE",1,SUPERIOR,Galle,Galle,Galle Divisional Secretariat,NULL,NULL
 Home Stay Units,IRUWI,"220, GALLE ROAD, MORAGALLA, BERUWALA.",1,SUPERIOR,Kalutara,Beruwala Pradeshiya Sabha,Beruwala Divisional Secretariat,79.983049,6.451463
 Home Stay Units,RUWINI,"5/327 ,PORUTHOTA RD, PORUTHOTA, KOCHCHIKADE",1,STANDARD,Gampaha,Negombo,Negombo Divisional Secretariat,79.841011,7.228957
 Home Stay Units,SKYDALE,"352-G, DHARMARAJA ROAD, KANDY",4,DELUXE,Kandy,Kandy,Kandy Divisional Secretariat,80.6527456,7.2878343
@@ -1838,7 +1838,7 @@ Rented Apartments,LAVINIA GARDEN BUNGALOW,"38 - 40, COLLEGE AVENUE, MOUNT LAVINI
 Rented Apartments,CINNAMON PENTHOUSE,"24-3F CRESCAT RESIDANCIES, NO75, GALLE ROAD, COLOMBO 03.",5,DELUXE,Colombo,Colombo,Thimbirigasyaya Divisional Secretariat,79.84808,6.917928
 Rented Apartments,MILAN SQUARE,"7/5, 10, 37TH LANE, COLOMBO 06",3,SUPERIOR,Colombo,Colombo,Colombo Divisional Secretariat,79.862908,6.869139
 Rented Apartments,STATION COURT,"3/3, 19, WELLAWATTE ROAD, COLOMBO 6",3,SUPERIOR,Colombo,Colombo,Colombo Divisional Secretariat,79.8582943,6.8746633
-Rented Apartments,SANILKA ESTATE,"HENYAYA, BODAGAMA, THANAMALWILA",4,SUPERIOR,Moneragala,Thanamalwila Pradeshiya Sabha,Thanamalvila Divisional Secretariat,NULL,NULL
+Rented Apartments,SANILKA ESTATE,"HENYAYA, BODAGAMA, THANAMALWILA",4,SUPERIOR,Monaragala,Thanamalwila Pradeshiya Sabha,Thanamalvila Divisional Secretariat,NULL,NULL
 Rented Apartments,CITY BEDS THE REGENT,"201/2, NEW REGENT BUILDING, COLOMBO 2",5,SUPERIOR,Colombo,Colombo,Colombo Divisional Secretariat,NULL,NULL
 Rented Apartments,OHM FROM OHM,"457/18, MILLAGAHA WATTE, NAWALA ROAD, RAJAGIRIYA.",2,SUPERIOR,Colombo,Kotte Muncipal Council,Colombo Divisional Secretariat,NULL,NULL
 Rented Apartments,NIRANA APARTMENT,"21, CHAPEL ROAD, NUGEGODA",2,SUPERIOR,Colombo,Kotte Muncipal Council,Nugegoda Divisional Secretariat,79.886749,6.871861
@@ -2003,7 +2003,7 @@ Tourist Hotels,THE ROCK,"60,UNIQUE VIEW RD,NUWARAELIYA",10,,Nuwara Eliya,Nuwara 
 Tourist Hotels,SARASA HOTEL,"937 KANDY ROAD,WEDAMULLA,KELANIYA",19,,Gampaha,Gampaha,Kelaniya Divisional Secretariat,79.904795,6.968135
 Tourist Hotels,SUNSHINE INN,"DALAWELLA,UNAWATUNA",19,,Galle,Galle,Galle Divisional Secretariat,NULL,NULL
 Tourist Hotels,SANMALI BEACH HOTEL,"BEACH ROAD,MARAWILA",20,,Puttalam,Puttalam Pradeshiya Sabha,Mahawa Divisional Secretariat,79.815459,7.41773
-Tourist Hotels,ROBINSON HOTEL,"82,TISSA ROAD,KATHARAGAMA",19,,Moneragala,Hambantota,Katharagama Divisional Secretariat,81.329274,6.409072
+Tourist Hotels,ROBINSON HOTEL,"82,TISSA ROAD,KATHARAGAMA",19,,Monaragala,Hambantota,Katharagama Divisional Secretariat,81.329274,6.409072
 Tourist Hotels,RENUKA CITY HOTEL,"326,GALLE ROAD,COLOMBO 3",40,,Colombo,Colombo,Colombo Divisional Secretariat,79.850427,6.908534
 Tourist Hotels,THE SWISS RESIDENCE,"NO:23,BAHIRAWAKANDA,KANDY",40,,Kandy,Kandy,Gagawata,80.630297,7.297024
 Tourist Hotels,VILLA RANMENIKA,"GALLE ROAD, AHUNGALLA.",14,,Galle,Galle,Balapitiya Divisional Secretariat,80.034545,6.308305
@@ -2017,7 +2017,7 @@ Tourist Hotels,RANNA 212,"KAHANDAMODARA,RANNA,TANGALLE",55,,Hambantota,Tangalle 
 Tourist Hotels,HOTEL GOODWOOD PLAZA,"CANADA FRIENDSHIP ROAD,KATUNAYAKE.",32,,Gampaha,Katana Pradeshiya Sabha,Katana Divisional Secretariat,79.881579,7.16576
 Tourist Hotels,UGA BAY RESORT & SPA,"COCONUT BOARD ROAD,KALKUDAH,PASSIKUDAH.",48,,Batticaloa,Kalkudha,Valaichchenai Divisional Secretariat,81.5593553,7.9267033
 Tourist Hotels,SAUNTER PARADISE HOTEL,"TRINCOMALEE ROAD, AWDANGAWA, KIMBISSA, HABARANA",10,,Matale,Dambulla Pradeshiya Sabha,Dambulla Divisional Secretariat,80.724123,7.992861
-Tourist Hotels,OKRIN HOTEL,"NO 110,DETAGAMUWA,KATHARAGAMA",16,,Moneragala,Katharagama,Katharagama Divisional Secretariat,81.324962,6.400263
+Tourist Hotels,OKRIN HOTEL,"NO 110,DETAGAMUWA,KATHARAGAMA",16,,Monaragala,Katharagama,Katharagama Divisional Secretariat,81.324962,6.400263
 Tourist Hotels,JAFFNA HERITAGE HOTEL,"NO 195,TEMPLE ROAD,NALLUR,JAFFNA",10,,Jaffna,Jaffna,Jaffna Divisional Secretariat,80.028005,9.670882
 Tourist Hotels,BUDDIMA SAMUDRA,"PUTTALAM ROAD,NIKAWERATIYA",14,,Kurunegala,Nikaweratiya Pradeshiya Sabha,Nikaweratiya Divisional Secretariat,80.124388,7.738671
 Tourist Hotels,AMAARA SKY HOTEL,"72/22, A. B. DAMUNUPOLA MAWATHA, KANDY.",12,,Kandy,Kandy,Kandy Divisional Secretariat,80.627342,7.292234
@@ -2031,7 +2031,7 @@ Tourist Hotels,SHELL COAST RESORT PVT LTD,"UVARY,PESALAI,MANNAR",11,,Mannar,Jaff
 Tourist Hotels,THAPROBAN PAVILION RESORT & SPA,"YADDEHIMULLA, UNAWATUNA.",16,,Galle,Habaraduwa,Habaraduwa Divisional Secretariat,80.240417,6.009533
 Tourist Hotels,CAMELLIA RESORT & SPA,"AUDANGAWA, KIMBISSA, SIGIRIYA.",60,,Matale,Dambulla Pradeshiya Sabha,Dambulla Divisional Secretariat,80.7348373,7.9952951
 Tourist Hotels,DUTCH BAY RESORTS,"DUTCH BAY ISLAND,KALPITIYA",17,,Puttalam,Kalpitiya Pradeshiya Sabha,Kalpitiya Divisional Secretariat,79.75646,8.274467
-Tourist Hotels,GREEN HILL HOTEL,"NO 114, WELLAWAYA ROAD, MONARAGALA",16,,Moneragala,Kalmunai,Moneragala Divisional Secretariat,NULL,NULL
+Tourist Hotels,GREEN HILL HOTEL,"NO 114, WELLAWAYA ROAD, MONARAGALA",16,,Monaragala,Kalmunai,Monaragala Divisional Secretariat,NULL,NULL
 Tourist Hotels,ANILANA-EASTERN DEVELOPMENT ENTERPRISES,"NO.14,TOURISM DEVELOPMENT ZONE,PASSIKUDHA,KALKUDHA.",47,,Batticaloa,Batticaloa,Batticaloa Divisional Secretariat,81.574945,7.925871
 Tourist Hotels,MAGAMPURA ECO VILLAGE RESORT,"KAWANTISSAPURA,KATARAGAMA ROAD,TISSAMAHARAMAYA",18,,Hambantota,Thissamaharama,Thissamaharama Divisional Secretariat,81.322712,6.360924
 Tourist Hotels,GARTONS CAPE,"DENUWALA,AHANGAMA.",19,,Galle,Weligama Pradeshiya Sabha,Weligama Divisional Secretariat,80.382426,5.965604
@@ -2088,10 +2088,10 @@ Tourist Hotels,CHENA HUTS,"TALA-PALATUPANA,WILD LIFE TOURISM ZONE,PALATUPANA,YAL
 Tourist Hotels,SOUTH LAKE RESORT,"KATHALUWA, AHANGAMA",24,,Galle,Habaraduwa,Habaraduwa Divisional Secretariat,80.336882,5.983588
 Tourist Hotels,HOTEL TAMARIND TREE,"MAHASENPURA,TISSAMAHARAMAYA",20,,Hambantota,Thissamaharama,Thissamaharama Divisional Secretariat,81.296807,6.292573
 Tourist Hotels,BLACKPOOL HOTEL,"MAHAGASTHOTA HILL CLIMB, BLACKPOOL, NUWARAELIYA",50,,Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Divisional Secretariat,80.779097,6.94233
-Tourist Hotels,JETWING KADURUKETHA,WELLAWAYA,25,,Moneragala,Wellawaya,Wellawaya Divisional Secretariat,81.104838,6.754837
+Tourist Hotels,JETWING KADURUKETHA,WELLAWAYA,25,,Monaragala,Wellawaya,Wellawaya Divisional Secretariat,81.104838,6.754837
 Tourist Hotels,JETWING JAFFNA,"NO:37,MAHATHMAGANDI ROAD,JAFFNA.",53,,Jaffna,Jaffna,Jaffna Divisional Secretariat,80.013588,9.664915
 Tourist Hotels,ANI VILLAS,"KALUKATIYAWATTA,MALIYADDA,DICKWELLA",15,,Matara,Dickwella,Dickwella Divisional Secretariat,80.656847,5.9571
-Tourist Hotels,TAMARIND LAKE,"RAJA MAWATHA,KATHARAGAMA.",32,,Moneragala,Katharagama,Katharagama Divisional Secretariat,NULL,NULL
+Tourist Hotels,TAMARIND LAKE,"RAJA MAWATHA,KATHARAGAMA.",32,,Monaragala,Katharagama,Katharagama Divisional Secretariat,NULL,NULL
 Tourist Hotels,TRI,"ALADUWA WATTA, PELESSA, THITHTHAGALLE, AHANGAMA",10,,Galle,Habaraduwa,Galle Divisional Secretariat,NULL,NULL
 Tourist Hotels,ROCK SIDE BEACH RESORT,"GALLE ROAD, ATHURUWELLA, INDURUWA",18,,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,80.005415,6.395497
 Tourist Hotels,CARDAMON HOTEL NILAVELI,"WARD 2, NILAVELI, TRINCOMALEE",22,,Trincomalee,Kuchchaveli,Kuchchaveli Divisional Secretariat,81.1990326,8.6840867
