@@ -91,9 +91,21 @@ Data set and reference to open data portal is mentioned in Table ``Tab.~\ref{tab
     \item Tourism Data set size =  (2130, 7)
     \item Integrated dataframe shape =  (25, 36)
 \end{itemize}
+Extortion, abduction, rape ``Fig.~\ref{fig_geo}'' crime data distribution throughout the country were plotted.How male-female employment vary across district and room count distribution were also plotted. We can observe that the employed female population is higher than employed male population in most district. At the same time hotel room count is also higher in those districts. 
+\begin{figure}[htbp]
+  \centering
+    \subfloat{{\includegraphics[width=6cm]{crime_abduction.PNG} }}
+    \qquad
+    \subfloat{{\includegraphics[width=6cm]{crime_extortion.PNG} }}
+     \qquad
+    \subfloat{{\includegraphics[width=6cm]{crime_rape.PNG} }}
+    \caption{geo maps for crime}
+  \label{fig_geo}
+\end{figure}
 
 \subsection{Methodology}
 Initially data was loaded to separate data frames. Integrating them to one data frame was a challenge. District is common factor in every data set. Crime data set and employment data set were sorted on District. From tourism data only room count was taken per district. Then data frames were merged together to get the final integrated data frame. 
+Room count correlation(Pearson) was calculated and heat map was created for correlation coefficient which is greater than 0.75. ``Fig.~\ref{fig1}'' shows that room count shows a high correlation with almost all crime data. 
 
 \section{Results}
 Before you begin to format your paper, first write and save the content as a 
@@ -242,9 +254,9 @@ copy& More table copy$^{\mathrm{a}}$& &  \\
 \end{table}
 
 \begin{figure}[htbp]
-\centerline{\includegraphics{fig1.png}}
-\caption{Example of a figure caption.}
-\label{fig}
+\centerline{\includegraphics[scale=0.50]{fig1.PNG}}
+\caption{Heat map of room count with crimes.}
+\label{fig1}
 \end{figure}
 
 Figure Labels: Use 8 point Times New Roman for Figure labels. Use words 
