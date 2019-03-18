@@ -57,7 +57,7 @@ data science, hypothesis, analysis, statistics
 \end{IEEEkeywords}
 
 \section{Introduction}
-Number of data sets are freely available at Open Data Portal of SriLanka which is an initiative of SriLanka government to facilitate researches, policy makers and decision makers to come up with ideal solutions for prevailing problems. Crime is a serious problem in SriLanka. Crime related news are published in newspapers each and every day. Authors have chosen data mentioned in Table1 to analyze about criminal activities and their relation between tourism and employment.
+Number of data sets are freely available at Open Data Portal of SriLanka which is an initiative of SriLanka government to facilitate researches, policy makers and decision makers to come up with ideal solutions for prevailing problems. Crime is a serious problem in SriLanka. Crime related news are published in newspapers each and every day. Authors have chosen data mentioned in Table ``Tab.~\ref{tab1}'' to analyze about criminal activities and their relation between tourism and employment.
 Before giving solutions for criminal activities the true reasons behind crimes should be understood. Authors want to see whether there are correlation of crime data with employment and tourism. These data has been recorded as district base. Before analyzing three sets were integrated together. The primary contributions of this paper are:
 \begin{itemize}
 \item Analyze crime data and male-female employment data for correlation
@@ -65,17 +65,35 @@ Before giving solutions for criminal activities the true reasons behind crimes s
 \item Use scientific methods in data science for processing, analyzing and visualization
 \end{itemize}
 
+\begin{table}[htbp]
+\caption{Data set Details}
+\begin{center}
+\begin{tabular}{|p{3cm}|p{6cm}|}
+\hline
+\textbf{Data Set}& \textbf{Link}\\
+\hline
+Crime data 2010-2012 & http://www.data.gov.lk/dataset/crime-data-2010-2012 \\
+Employment by Industrial Sector 2012& http://www.data.gov.lk/dataset/employees-industrial-sector-2012\\
+Accommodation information for tourists& http://www.data.gov.lk/dataset/accommodation-information-tourists\\
+\hline
+\end{tabular}
+\label{tab1}
+\end{center}
+\end{table}
+
 \section{Data and Methodology}
 
-\section{Data}
+\subsection{Data}
+Data set and reference to open data portal is mentioned in Table ``Tab.~\ref{tab1}''. Data set dimensions are mentioned below
+\begin{itemize}
+    \item Crime Data set size =  (25, 23)
+    \item Employment Data set size =  (25, 13)
+    \item Tourism Data set size =  (2130, 7)
+    \item Integrated dataframe shape =  (25, 36)
+\end{itemize}
 
-The IEEEtran class file is used to format your paper and style the text. All margins, 
-column widths, line spaces, and text fonts are prescribed; please do not 
-alter them. You may note peculiarities. For example, the head margin
-measures proportionately more than is customary. This measurement 
-and others are deliberate, using specifications that anticipate your paper 
-as one part of the entire proceedings, and not as an independent document. 
-Please do not revise any of the current designations.
+\subsection{Methodology}
+Initially data was loaded to separate data frames. Integrating them to one data frame was a challenge. District is common factor in every data set. Crime data set and employment data set were sorted on District. From tourism data only room count was taken per district. Then data frames were merged together to get the final integrated data frame. 
 
 \section{Results}
 Before you begin to format your paper, first write and save the content as a 
@@ -219,7 +237,7 @@ copy& More table copy$^{\mathrm{a}}$& &  \\
 \hline
 \multicolumn{4}{l}{$^{\mathrm{a}}$Sample of a Table footnote.}
 \end{tabular}
-\label{tab1}
+\label{tab2}
 \end{center}
 \end{table}
 
