@@ -70,11 +70,11 @@ Before giving solutions for criminal activities the true reasons behind crimes s
 \begin{center}
 \begin{tabular}{|p{3cm}|p{6cm}|}
 \hline
-\textbf{Data Set}& \textbf{Link}\\
+\textbf{Data Set}& \textbf{Link}\\[14pt]
 \hline
-Crime data 2010-2012 & http://www.data.gov.lk/dataset/crime-data-2010-2012 \\
-Employment by Industrial Sector 2012& http://www.data.gov.lk/dataset/employees-industrial-sector-2012\\
-Accommodation information for tourists& http://www.data.gov.lk/dataset/accommodation-information-tourists\\
+Crime data 2010-2012 & http://www.data.gov.lk/dataset/crime-data-2010-2012 \\[5pt]
+Employment by Industrial Sector 2012& http://www.data.gov.lk/dataset/employees-industrial-sector-2012\\[5pt]
+Accommodation information for tourists& http://www.data.gov.lk/dataset/accommodation-information-tourists\\[5pt]
 \hline
 \end{tabular}
 \label{tab1}
@@ -91,21 +91,33 @@ Data set and reference to open data portal is mentioned in Table ``Tab.~\ref{tab
     \item Tourism Data set size =  (2130, 7)
     \item Integrated dataframe shape =  (25, 36)
 \end{itemize}
-Extortion, abduction, rape ``Fig.~\ref{fig_geo}'' crime data distribution throughout the country were plotted.How male-female employment vary across district and room count distribution were also plotted. We can observe that the employed female population is higher than employed male population in most district. At the same time hotel room count is also higher in those districts. 
-\begin{figure}[htbp]
+Extortion, abduction, rape ``Fig.~\ref{fig_geo}'' crime data distribution throughout the country were plotted.How male-female employment vary across district and room count(``Fig.~\ref{fig_rooms}'') distribution were also plotted. We can observe that the employed female population is higher than employed male population in most district. At the same time hotel room count is also higher in those districts. 
+\begin{figure*}[htbp]
   \centering
     \subfloat{{\includegraphics[width=6cm]{crime_abduction.PNG} }}
     \qquad
     \subfloat{{\includegraphics[width=6cm]{crime_extortion.PNG} }}
      \qquad
     \subfloat{{\includegraphics[width=6cm]{crime_rape.PNG} }}
-    \caption{geo maps for crime}
+    \caption{Geo maps for crime}
   \label{fig_geo}
-\end{figure}
+\end{figure*}
+
+\begin{figure*}[htbp]
+    \centering{\includegraphics[width=\textwidth,height=8cm]{rooms.PNG} }
+    \caption{Room counts}
+    \label{fig_rooms}
+\end{figure*}
 
 \subsection{Methodology}
 Initially data was loaded to separate data frames. Integrating them to one data frame was a challenge. District is common factor in every data set. Crime data set and employment data set were sorted on District. From tourism data only room count was taken per district. Then data frames were merged together to get the final integrated data frame. 
 Room count correlation(Pearson) was calculated and heat map was created for correlation coefficient which is greater than 0.75. ``Fig.~\ref{fig1}'' shows that room count shows a high correlation with almost all crime data. 
+
+\begin{figure}[htbp]
+\centerline{\includegraphics[scale=0.70]{fig1.PNG}}
+\caption{Heat map of room count with crimes.}
+\label{fig1}
+\end{figure}
 
 \section{Results}
 Before you begin to format your paper, first write and save the content as a 
@@ -253,11 +265,7 @@ copy& More table copy$^{\mathrm{a}}$& &  \\
 \end{center}
 \end{table}
 
-\begin{figure}[htbp]
-\centerline{\includegraphics[scale=0.50]{fig1.PNG}}
-\caption{Heat map of room count with crimes.}
-\label{fig1}
-\end{figure}
+
 
 Figure Labels: Use 8 point Times New Roman for Figure labels. Use words 
 rather than symbols or abbreviations when writing Figure axis labels to 
