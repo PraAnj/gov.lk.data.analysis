@@ -24,8 +24,3 @@ Female employment in industrial sector relates to crimes like,
  1. Abduction/ Kidnapping (0.8)
  2. H.B. & Theft (0.77)
  3. Hurt by knife (0.83).
- 
-# @ToSubmit:
-1. 6-page ieee format research paper like report. ( Latex online editor: https://www.overleaf.com/ )
-2. present the same using slides in the final VIVA.
-3. [Optional] Blog posting, New paper articles & Research Publications
