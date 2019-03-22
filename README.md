@@ -15,13 +15,12 @@ Popular tourism cities caused lot of crimes including
 
  1. Robbery (0.81)
  2. Dangeroud drugs (0.8)
- 3. H.B. & Theft
- 4. Kidnapping
- 5. Offences with weapons.
+ 3. H.B. & Theft (0.74)
+ 4. Kidnapping (0.75)
+ 5. Offences with weapons (0.74)
  
 Female employment in industrial sector relates to crimes like,
 
- 1. Abduction/ Kidnapping (0.8)
  2. H.B. & Theft (0.77)
  3. Hurt by knife (0.83).
 
