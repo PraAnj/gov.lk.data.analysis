@@ -24,3 +24,17 @@ Female employment in industrial sector relates to crimes like,
  1. Abduction/ Kidnapping (0.8)
  2. H.B. & Theft (0.77)
  3. Hurt by knife (0.83).
+
+# Techniques Used
+
+ 1. Visualization (heatmaps/ Geomaps/ boxplot/ histogram/ scatterplot)
+ 2. Missing value handling 
+        Ex:- Population of Chilaw district
+ 3. Rollup data/ Feature engineering (Room count each hotels to District level)
+ 4. Data integration (merge datasets by District)
+ 5. Normalization (crime data normalized by population)
+ 6. Correlation analysis
+ 7. Normalization test
+ 8. Hypothesis testing (t-test)
+ 9. Linear regression (Ridge)
+ 10. Cross validation (K-fold)
