@@ -27,7 +27,7 @@ Female employment in industrial sector relates to crimes like,
 
 # Techniques Used
 
- 1. Visualization (heatmaps/ Geomaps/ boxplot/ histogram/ scatterplot)
+ 1. Visualization (heatmaps/ Geomaps/ boxplot/ histogram/ bar chart/ scatterplot)
  2. Missing value handling 
         Ex:- Population of Chilaw district
  3. Rollup data/ Feature engineering (Room count each hotels to District level)
