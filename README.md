@@ -31,7 +31,7 @@ Female employment in industrial sector relates to crimes like,
  3. Rollup data/ Feature engineering (Room count each hotels to District level)
  4. Data integration (merge datasets by District)
  5. Normalization (crime data normalized by population)
- 6. Correlation analysis
+ 6. Correlation analysis (pearson, spearman)
  7. Normalization test
  8. Hypothesis testing (t-test)
  9. Single/ Multivariate Linear regression (Ridge)
